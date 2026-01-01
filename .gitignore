@@ -1,0 +1,7 @@
+__pycache__
+.venv
+.env
+data/*.json
+chroma_db/
+*.bin
+*.sqlite3

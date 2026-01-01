@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "list out all the internship courses with its schedule"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! \ud83d\udc4b I'm the Sunbeam assistant.\nAsk me about courses, branches, or internships."
+  },
+  {
+    "role": "user",
+    "content": "list out all modular courses with its fee"
+  },
+  {
+    "role": "assistant",
+    "content": "Here\u2019s a list of all the modular courses and their fees, based on the provided context:\n\n*   **Core Java:** Rs. 8000/- (Early Bird Offer)\n*   **Aptitude:** Rs. 4000/- (Early Bird Offer)\n*   **Dev Ops:** Rs. 11100/-\n*   **Python Development:** Rs. 8100/- (Early Bird Offer)\n*   **Data Structures and Algorithms:** Rs. 7000/- (Early Bird Offer)\n*   **Mastering MCQs:** Rs. 3000/-\n*   **C++:** Rs. 7000/- (Early Bird Offer)\n*   **MERN (FULL-STACK) DEVELOPMENT:** Rs. 9100/-\n*   **Machine Learning:** Rs. 7500/- (Inc. 18% GST)\n*   **MLOps & LLMOps:** Rs. 8000/- (Special Offer for Sunbeam Alumni)\n*   **Dream LLM:** Rs. INR 20000/- (Inc.18% GST)\n*   **Apache Spark Mastery - Data Engineering with PySpark:** Rs. 14900/-(Inc.18% GST)\n*   **Mastering GenAI:** Rs. 17900/-"
+  }
+]
